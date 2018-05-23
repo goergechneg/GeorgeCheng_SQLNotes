@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\f9b3896db763d4999610e7e97946cc067c19f52d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_03c25464765fbede52a5086ed36f0552d3b0243c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\b311dd8bb0b2d1ef15e4a1e2e5ba48b4059d4ae0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_578793e1a8b6dd02bf00aa3df9536ebd040391da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_27f8cdfe03d6fda501679178c855b94789a55034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\46d1210f567b1d051c664dd7922f92636167f496\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_f0795a5b843d24ffaa4d03da04ff47950aa01bba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\common-1.1.0_cc473267de392bcd5e2865e3da220300d0899cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\4bc670885b5da8b58267249038f54a3d9b7a179d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_f58375b47093ef119af42a8f159e326542f4125f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\4b56648ca14b5a3fb2189de5349f412cbfde96a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_2c150cdf4dbd935b4922b44ac66a8454f434128d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_d403c159aecd65bedb1993e9ee70433a35910d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\68b78785a9ba3dc857a0720f44efda382ecf6ecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_fba4b8a33586d54b97efb6b839ac8762cf9af23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\f463140a9cd683ee1a45559ffb19011f74555881\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_78833dc42ecdbf37ac33b300b1c785d6ec83df08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\f198295166ecf064a253913abaa5340813ba39d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_9f3b55b732a8b1981671f0e343c771ef32ea9d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\904729ddc5c33de7d4334d147490f5a9417a4d59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_4e2bf67f21f3fb3683f79267fb4385b9b0917d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\3caa024d65399e397957c941395446b28495ef6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_8611002e094b0e35f7330413d311c72416a040d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\common-1.1.0_cdd69468c5dff458d364474985795d86d0858221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\2702ba02a795ac7e787925ff78e88e68999f5409\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_f79a1e52c624ef6cd438adebace557f9ccf17d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengg9102\.android\build-cache\114f2421845f1686ae10555626365b3e8cfc1b0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\Users\chengg9102\Documents\GitHub\GeorgeCheng_SQLNotes\app\build\intermediates\pre-dexed\debug\classes_65521fc45b56595bc79fce1732392c2ee376ffbf.jar" />
+    </item>
+
+</items>
